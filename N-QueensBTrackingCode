@@ -1,7 +1,10 @@
-/*
- * 
- * 
+/* Lorena Cardenas 
+ * Monzerrat Meija Mendoza 
+ * CSCI 3613.01 
+ * Dr. Wen Xu 
+ * April 19th, 2026
  */
+
 package nqueens;                  //telling the programing software to use the NQueens class
 import java.util.Scanner;         //the import for reading inputs from user
 public class NQueens             //class contains all the code
